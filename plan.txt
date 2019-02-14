@@ -1,0 +1,17 @@
+Features
+	1. Users
+		a. Join 			= OK
+		b. Login 			= OK
+		c. Reset Password 	= OK
+		d. Post
+			a. Comment
+	2. Posts
+		a. list of the post
+		a. add 
+		b. edit 
+		c. view
+		d. delete
+		e. comment
+
+	3. Categories 
+	4. Comments
